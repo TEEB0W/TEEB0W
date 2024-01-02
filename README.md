@@ -1,6 +1,6 @@
 ## Hi there 👋
 ##### welcome to my github profile
-##### Tech polymath weaving innovation in code. Passionate about programming, AI, and emerging tech. Constantly learning, shaping the digital future with curiosity and creativity.
+##### i develop stuff
 
 <!--
 **TEEB0W/TEEB0W** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
